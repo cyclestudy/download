@@ -7,7 +7,7 @@
 # Agent 二进制文件路径 (伪装成临时缓存文件)
 AGENT_BIN="/mnt/HD_a4/.cache_db"
 # 原下载地址
-DOWNLOAD_URL="http://iot.632313373.xyz/komari/armv5telc"
+DOWNLOAD_URL="https://raw.githubusercontent.com/cyclestudy/download/main/armv5telc"
 # 启动参数
 AGENT_ARGS="-e https://status.sm.uy -k QYmMY88SvEdrV5tb4VrKWv -i 3"
 
